@@ -1,6 +1,6 @@
 <h1>Titanic Survival Prediction</h1>
 
-Titanic Ship
+![Ship](https://github.com/rebello03/Titanic_Survival/blob/main/ship.jpg)
 
 <h3>Problem Statement :</h3>
 The problem at hand involves creating a classification algorithm to predict Titanic survival, determining whether a person will be saved from sinking or not based on various factors.
